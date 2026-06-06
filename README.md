@@ -71,7 +71,8 @@ The agent is capable of multi-step reasoning and tool execution rather than gene
 ---
 
 
-img width="735" height="856" alt="image" src="https://github.com/user-attachments/assets/bec9884b-9094-4832-a2a7-e1538307cca2" />
+<img width="683" height="779" alt="image" src="https://github.com/user-attachments/assets/9a892db8-d1b0-4b4e-ab99-df57a2f91e12" />
+
 
 ---
 
@@ -292,10 +293,6 @@ http://127.0.0.1:7860
 ---
 
 
-
-# 📄 Resume Description
-
-Built an autonomous AI Sidekick Agent using LangGraph, LangChain, Ollama, Qwen, Playwright, Gradio, and LangSmith. Implemented a worker-evaluator architecture capable of web research, browser automation, Python execution, file management, and iterative task completion using tool-calling agents.
 
 ---
 
